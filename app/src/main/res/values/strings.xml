@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="my_first_text">My First Text</string>
+    <string name="my_second_text">My First Text</string>
+    <string name="contactos">CONTACTOS</string>
+    <string name="todo">TODO</string>
+</resources>
